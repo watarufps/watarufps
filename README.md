@@ -26,6 +26,28 @@
  Projects (準備中)
 - AI を活用したブログ自動生成ツール (開発中)
 - これから随時追加していきます
+  
+-  Python Learning 🐍
+
+Progate を使って Python を学習中です。
+
+ 開始日
+2026年6月
+
+## 学習内容
+- [x] print() の基本
+- [x] 数値の計算（四則演算）
+- [ ] 変数
+- [ ] 文字列の操作
+- [ ] 条件分岐（if文）
+- [ ] リスト
+- [ ] 繰り返し（for文）
+
+ メモ
+- print() の中で計算式を書けることを学んだ
+- 例: print(2 + 3) → 5
+
+日々の学習を記録していきます。
 
 <!--
 **watarufps/watarufps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
